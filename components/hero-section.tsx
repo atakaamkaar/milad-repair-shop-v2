@@ -30,7 +30,7 @@ export default function HeroSection() {
       <div className="container mx-auto px-4 relative z-10">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-primary-foreground mb-6 leading-tight text-balance">
-            تعمیرات تخصصی لوازم خانگی در تمام نقاط شهری
+            تعمیرات تخصصی لوازم خانگی نبیی در تمام نقاط شهری
           </h1>
           <p className="text-lg md:text-xl lg:text-2xl text-primary-foreground/90 mb-8 leading-relaxed text-pretty">
             سرویس سریع، مطمئن و با نمایندگی رسمی

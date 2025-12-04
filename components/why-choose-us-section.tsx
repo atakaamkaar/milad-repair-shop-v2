@@ -29,7 +29,7 @@ export default function WhyChooseUsSection() {
     <section className="py-20 md:py-32 bg-muted/30">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <h2 className="text-3xl md:text-5xl font-bold text-foreground mb-4 text-balance">چرا نمایندگی نبیعی؟</h2>
+          <h2 className="text-3xl md:text-5xl font-bold text-foreground mb-4 text-balance">چرا نمایندگی نبیی</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto text-pretty">
             اعتماد هزاران مشتری راضی، نتیجه کیفیت و تعهد ما
           </p>

@@ -1,3 +1,5 @@
+ Open components.json "style": "default" 
+
 npm install
 npm install @radix-ui/react-checkbox
 npm install class-variance-authority
@@ -7,3 +9,37 @@ npm install @radix-ui/react-label
 npm install clsx
 npm install tailwind-merge
 npm install @vercel/analytics
+
+npm install @radix-ui/react-checkbox @radix-ui/react-slot @radix-ui/react-select @radix-ui/react-label @radix-ui/react-accordion class-variance-authority clsx tailwind-merge react-day-picker react-hook-form next-themes recharts @vercel/analytics
+npm install -D @types/node @types/react @types/react-day-picker @types/react-day-picker
+
+
+
+
+npx shadcn@latest add checkbox
+npx shadcn-ui@latest add --all
+npm install lucide-react
+npm install @radix-ui/react-checkbox @radix-ui/react-slot lucide-react
+npm install d3-color@latest --save
+npm install cmdk
+pm install @radix-ui/react-* cmdk lucide-react clsx tailwind-merge
+npm install cmdk@latest
+npm install @radix-ui/react-dropdown-menu
+npm install vaul
+npm install --package-lock-only
+npm install react-hook-form
+npm install react-hook-form
+npm install @radix-ui/react-hover-card
+npm install input-otp
+npm install @radix-ui/react-menubar
+npm install @radix-ui/react-navigation-menu
+npm install @radix-ui/react-progress
+npm install @radix-ui/react-radio-group
+npm install react-resizable-panels
+npm install @radix-ui/react-scroll-area
+npm install @radix-ui/react-separator
+npm install @radix-ui/react-slider
+npm install sonner
+npm install @radix-ui/react-switch
+npm install @radix-ui/react-tabs
+npm install @radix-ui/react-toggle-group
